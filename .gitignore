@@ -1,0 +1,12 @@
+yolov3.weights
+yolov3.cfg.txt
+push_error.txt
+push_log.txt
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.vscode/
+.idea/
+*.log
